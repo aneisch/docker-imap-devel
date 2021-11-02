@@ -1,4 +1,4 @@
-name: Build, Assess Vulnerability, Push
+name: Build, Push
 
 on:
   push:
